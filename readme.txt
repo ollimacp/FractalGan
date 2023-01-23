@@ -1,3 +1,8 @@
+
+Open Jupyter Notebook at Google Colab:
+https://colab.research.google.com/github/ollimacp/FractalGan/blob/main/Fractal%20GAN.ipynb#scrollTo=859d34d1
+
+
 Please use a Linux enviroment for executing code. Windows tents to be way buggier than linux.
 Save the software preferably into your home directory
 
